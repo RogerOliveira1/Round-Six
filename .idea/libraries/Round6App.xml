@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Round6App">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/round6-app/Round6App.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
